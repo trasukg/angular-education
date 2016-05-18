@@ -92,6 +92,7 @@ If you want to add a resource please open a new issue or comment on an existing 
 #### Classes
 * [Angular Course](https://www.angularcourse.com)
 * [egghead.io - Video Tutorials](https://www.egghead.io/)
+* [Comprehensive AngularJS Programming](http://www.webagesolutions.com/courses/WA2505-comprehensive-angularjs-programming)
 
 #### Magazines/Blogs
 * [AngularJS Daily](http://www.angularjsdaily.com/)
